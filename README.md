@@ -5,4 +5,4 @@
 * dslogic_u2b_v111_p0808_mod_to_plus.bin - прошивка с изменённым байтом
 
 # Ссылки
-[Видео](https://youtu.be/zTNT0aI76d0)
+* [Видео](https://youtu.be/zTNT0aI76d0)
